@@ -1,5 +1,2 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+This is a Basic protype of Attendance managment system For CSJMU 
+I Built it using Next.js , CSS , HTML
